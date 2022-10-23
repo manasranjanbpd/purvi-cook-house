@@ -1,0 +1,123 @@
+[
+    {
+        "id":"m1",
+        "name":"Bread Pakoda",
+        "description": "Potato filing and deep fried with gramflour batter",
+        "quantity":5,
+        "price":40
+    },{
+        "id":"m2",
+        "name":"Dahi Vada",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":3,
+        "price":30
+    },{
+        "id":"m3",
+        "name":"Cheese Garlic Bread",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":3,
+        "price":30
+    },{
+        "id":"m4",
+        "name":"Paneer Samosa",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":4,
+        "price":60
+    },{
+        "id":"m5",
+        "name":"Veg Samosa",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":4,
+        "price":50
+    },{
+        "id":"m6",
+        "name":"Pani Poori",
+        "description": "With aloo masala and tamarind mint water",
+        "quantity":15,
+        "price":40
+    },{
+        "id":"m7",
+        "name":"Jalebi",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":5,
+        "price":30
+    },{
+        "id":"m8",
+        "name":"Veg Manchurian Dry",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":9,
+        "price":50
+    },{
+        "id":"m9",
+        "name":"Veg Hakka Noodles",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":1,
+        "price":40
+    },{
+        "id":"m10",
+        "name":"Paneer/Mushroom Hakka Noodles",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":1,
+        "price":50
+    },{
+        "id":"m11",
+        "name":"Paneer/Mushroom Frankie Roll",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":2,
+        "price":70
+    },{
+        "id":"m12",
+        "name":"Paneer Butter Masala",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":1,
+        "price":60
+    },{
+        "id":"m13",
+        "name":"Veg Kadhai",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":1,
+        "price":60
+    },{
+        "id":"m14",
+        "name":"Dal Tadka",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":1,
+        "price":40
+    },{
+        "id":"m15",
+        "name":"Chole Masala",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":1,
+        "price":50
+    },{
+        "id":"m16",
+        "name":"Chilli Soyabean/Mushroom",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":1,
+        "price":50
+    },{
+        "id":"m17",
+        "name":"Poori Aludam",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":4,
+        "price":60
+    },{
+        "id":"m18",
+        "name":"Veg Fried Rice",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":1,
+        "price":40
+    },{
+        "id":"m19",
+        "name":"Plain Rice",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":1,
+        "price":15
+    },{
+        "id":"m20",
+        "name":"Paratha",
+        "description": "lorem ipsum lorem ipsum",
+        "quantity":3,
+        "price":20
+    }
+]
