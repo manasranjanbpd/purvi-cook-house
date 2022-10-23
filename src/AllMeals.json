@@ -2,122 +2,142 @@
     {
         "id":"m1",
         "name":"Bread Pakoda",
-        "description": "Potato filing and deep fried with gramflour batter",
+        "description": "potato-filled deep-fried bread pieces",
         "quantity":5,
+        "type":"veg",
         "price":40
     },{
         "id":"m2",
         "name":"Dahi Vada",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "yogurt-drenched deep-fried fritters",
         "quantity":3,
+        "type":"veg",
         "price":30
     },{
         "id":"m3",
         "name":"Cheese Garlic Bread",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "cheese and garlic smeared on slices of bread",
         "quantity":3,
+        "type":"veg",
         "price":30
     },{
         "id":"m4",
         "name":"Paneer Samosa",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "fried pastry filled with paneer and vegetables",
         "quantity":4,
+        "type":"veg",
         "price":60
     },{
         "id":"m5",
         "name":"Veg Samosa",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "fried pastry filled with vegetables",
         "quantity":4,
+        "type":"veg",
         "price":50
     },{
         "id":"m6",
         "name":"Pani Poori",
-        "description": "With aloo masala and tamarind mint water",
+        "description": " hollow dough balls stuffed with potato filling and tamrind mint water ",
         "quantity":15,
+        "type":"veg",
         "price":40
     },{
         "id":"m7",
         "name":"Jalebi",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "frying flour batter in the shape of pretzels and then soaking them in sugar syrup",
         "quantity":5,
+        "type":"veg",
         "price":30
     },{
         "id":"m8",
         "name":"Veg Manchurian Dry",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "Crisp, fried vegetable balls are dipped in a sauce that is a little bit fiery, sour, and sweet.",
         "quantity":9,
+        "type":"veg",
         "price":50
     },{
         "id":"m9",
         "name":"Veg Hakka Noodles",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "flavourful noodles tossed with vegetables",
         "quantity":1,
+        "type":"veg",
         "price":40
     },{
         "id":"m10",
         "name":"Paneer/Mushroom Hakka Noodles",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "flavourful noodles tossed with paneer/Mushroom ",
         "quantity":1,
+        "type":"veg",
         "price":50
     },{
         "id":"m11",
         "name":"Paneer/Mushroom Frankie Roll",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "a tortilla wrap filled with paneer/mushroom, stir-fried vegetables, and sauces",
         "quantity":2,
+        "type":"veg",
         "price":70
     },{
         "id":"m12",
         "name":"Paneer Butter Masala",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "rich and creamy made of butter, paneer, onions, tomatoes, cashew and spice powders, and herbs",
         "quantity":1,
+        "type":"veg",
         "price":60
     },{
         "id":"m13",
         "name":"Veg Kadhai",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "Mixed vegetables cooked with freshly ground spices and then simmered in delicious onion-tomato gravy.",
         "quantity":1,
+        "type":"veg",
         "price":60
     },{
         "id":"m14",
         "name":"Dal Tadka",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "lentils that have been boiled and then finished with a ghee and spice tempering",
         "quantity":1,
+        "type":"veg",
         "price":40
     },{
         "id":"m15",
         "name":"Chole Masala",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "curry dish made with white chickpeas, onions, tomatoes, spices and herbs",
         "quantity":1,
+        "type":"veg",
         "price":50
     },{
         "id":"m16",
         "name":"Chilli Soyabean/Mushroom",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "deep fry cottage mixed with the flavorful spices, sauces, chilies, onions, ginger, garlic and green bell peppers.",
         "quantity":1,
+        "type":"veg",
         "price":50
     },{
         "id":"m17",
         "name":"Poori Aludam",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "Indian fried bread served with potato based onion and tomato stew",
         "quantity":4,
+        "type":"veg",
         "price":60
     },{
         "id":"m18",
         "name":"Veg Fried Rice",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "stir fry rice with vegetables",
         "quantity":1,
+        "type":"veg",
         "price":40
     },{
         "id":"m19",
         "name":"Plain Rice",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "long grain rice boiled in water",
         "quantity":1,
+        "type":"veg",
         "price":15
     },{
         "id":"m20",
         "name":"Paratha",
-        "description": "lorem ipsum lorem ipsum",
+        "description": "oil-made multilayer wheat flatbread",
         "quantity":3,
+        "type":"veg",
         "price":20
     }
 ]
