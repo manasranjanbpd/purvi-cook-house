@@ -27,3 +27,7 @@
     font-weight: 500;
     font-style: italic;
   }
+  .formDiv{
+    display: flex;
+    flex-direction: column-reverse;
+  }
