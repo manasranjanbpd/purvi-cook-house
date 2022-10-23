@@ -99,76 +99,83 @@
         "price":40
     },{
         "id":"m15",
+        "name":"Paneer Dum Biriyani & Raita",
+        "description": "a pot of long-grained rice and paneer with spices that has been traditionally cooked over a low heat (dum).",
+        "quantity":1,
+        "type":"veg",
+        "price":70
+    },{
+        "id":"m16",
         "name":"Chapati (Roti)",
         "description": "wheat flatbread",
         "quantity":3,
         "type":"veg",
         "price":20
     },{
-        "id":"m16",
+        "id":"m17",
         "name":"Paratha",
         "description": "layered wheat flatbread",
         "quantity":3,
         "type":"veg",
         "price":20
     },{
-        "id":"m17",
+        "id":"m18",
         "name":"Veg Manchurian Dry",
         "description": "Crisp, fried vegetable balls are dipped in a sauce that is a little bit fiery, sour, and sweet",
         "quantity":8,
         "type":"veg",
         "price":50
     },{
-        "id":"m18",
+        "id":"m19",
         "name":"Chilli Soyabean",
         "description": "deep fry soyabean mixed with the flavorful spices, sauces, chilies, onions, ginger, garlic and green bell peppers",
         "quantity":1,
         "type":"veg",
         "price":50
     },{
-        "id":"m19",
+        "id":"m20",
         "name":"Chilli Mushroom",
         "description": "deep fry mushroom mixed with the flavorful spices, sauces, chilies, onions, ginger, garlic and green bell peppers",
         "quantity":1,
         "type":"veg",
         "price":50
     },{
-        "id":"m20",
+        "id":"m21",
         "name":"Dal Tadka",
         "description": "lentils that have been boiled and then finished with a ghee and spice tempering",
         "quantity":1,
         "type":"veg",
         "price":40
     },{
-        "id":"m21",
+        "id":"m22",
         "name":"Chole Masala",
         "description": "curry dish made with white chickpeas, onions, tomatoes, spices and herbs",
         "quantity":1,
         "type":"veg",
         "price":50
     },{
-        "id":"m22",
+        "id":"m23",
         "name":"Aloo Gobi",
         "description": "Potato and cauliflower cooked with fresh ground spices and onion, tomato gravy",
         "quantity":1,
         "type":"veg",
         "price":50
     },{
-        "id":"m23",
+        "id":"m24",
         "name":"Veg Kadhai",
         "description": "Mixed vegetables cooked with freshly ground spices and then simmered in delicious onion-tomato gravy.",
         "quantity":1,
         "type":"veg",
         "price":60
     },{
-        "id":"m24",
+        "id":"m25",
         "name":"Paneer Butter Masala",
         "description": "rich and creamy made of butter, paneer, onions, tomatoes, cashew and spice powders, and herbs",
         "quantity":1,
         "type":"veg",
         "price":60
     },{
-        "id":"m25",
+        "id":"m26",
         "name":"Jalebi",
         "description": "frying gram flour batter in the shape of pretzels and then soaking them in sugar syrup",
         "quantity":6,
