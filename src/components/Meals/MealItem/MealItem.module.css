@@ -10,8 +10,19 @@
     margin: 0 0 0.25rem 0;
   }
   
+  .other{
+    display:flex;
+    gap: 10px;
+    margin-top:10px;
+    font-size: 0.8rem;
+  }
+  .other img{
+    width:25px;
+    height:auto;
+  }
   .description {
     font-style: italic;
+    font-size:0.75rem;
   }
   
   .price {

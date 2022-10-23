@@ -5,13 +5,25 @@
   margin:auto;
   margin-top:-3rem;
   position: relative;
-  background-color: #383838;
-  color: white;
+  background-color: rgba(232, 255, 255, 0.5);
   border-radius: 14px;
   padding: 1rem;
-  box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25);
+  box-shadow: 5px 5px 12px rgb(0 0 0 / 75%);
+  animation: summary-appear 1s ease-out forwards;
 }
 .mainHeader{
   font-size:32px;
   font-style: italic;
+}
+
+@keyframes summary-appear {
+  from {
+    opacity: 0;
+    transform: translateY(-3rem);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }

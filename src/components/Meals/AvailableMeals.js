@@ -8,12 +8,12 @@ const AvailableMeals = () => {
     <MealItem 
         id={meal.id}
         key={meal.id}
-        index={index+1} 
+        index={index+1}
         name={meal.name} 
         description={meal.description}
         quantity={meal.quantity}
-        price={meal.price} />);
-    console.table(mealsList);
+        price={meal.price}
+        type={meal.type} />);
     return <section className={classes.meals}>
         <Card>
             <div className={classes.para}>

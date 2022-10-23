@@ -64,15 +64,15 @@
         "price":40
     },{
         "id":"m10",
-        "name":"Paneer/Mushroom Hakka Noodles",
-        "description": "flavourful noodles tossed with paneer/Mushroom ",
+        "name":"Paneer / Mushroom Hakka Noodles",
+        "description": "flavourful noodles tossed with paneer / Mushroom ",
         "quantity":1,
         "type":"veg",
         "price":50
     },{
         "id":"m11",
-        "name":"Paneer/Mushroom Frankie Roll",
-        "description": "a tortilla wrap filled with paneer/mushroom, stir-fried vegetables, and sauces",
+        "name":"Paneer / Mushroom Frankie Roll",
+        "description": "a tortilla wrap filled with paneer / mushroom, stir-fried vegetables, and sauces",
         "quantity":2,
         "type":"veg",
         "price":70
@@ -106,7 +106,7 @@
         "price":50
     },{
         "id":"m16",
-        "name":"Chilli Soyabean/Mushroom",
+        "name":"Chilli Soyabean / Mushroom",
         "description": "deep fry cottage mixed with the flavorful spices, sauces, chilies, onions, ginger, garlic and green bell peppers.",
         "quantity":1,
         "type":"veg",
