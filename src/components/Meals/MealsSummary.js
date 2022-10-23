@@ -11,7 +11,7 @@ const MealsSummary = () => {
               }}
             onInit={(typewriter)=>{
                 typewriter
-                .typeString("<span style='font-size:20px;'>Welcome to <br/><strong><span style='font-size:25px;'>Purvi's Cook House</strong></span><br/>")
+                .typeString("<span style='font-size:20px;'>Welcome to <br/><strong><span style='font-size:25px;'>Purvi's CookHouse</strong></span><br/>")
                 .pauseFor(1000)
                 .typeString("We cook and deliver home-cooked meals to you....")
                 .start();
