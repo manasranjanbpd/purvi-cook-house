@@ -22,160 +22,244 @@
         "price":30
     },{
         "id":"m4",
+        "name":"Chicken Cheese Garlic Bread",
+        "description": "cheese and garlic with fajita chicken smeared on slices of bread",
+        "quantity":4,
+        "type":"nonveg",
+        "price":60
+    },{
+        "id":"m5",
+        "name":"Onion Capsicum Pizza",
+        "description": "Pizza crust in the size of ~20 cm with cheese, onions, peppers, and sauces on top, as well as herbs and red pepper flakes",
+        "quantity":1,
+        "type":"veg",
+        "price":60
+    },{
+        "id":"m6",
+        "name":"Paneer Pizza",
+        "description": "Pizza crust in the size of 20 cm with cheese, onions, peppers along with PANEER and sauces on top, as well as herbs and red pepper flakes",
+        "quantity":1,
+        "type":"veg",
+        "price":60
+    },{
+        "id":"m7",
+        "name":"Chicken Pizza",
+        "description": "Pizza crust in the size of 20 cm with cheese, onions, peppers along with Fajita Chicken and sauces on top, as well as herbs and red pepper flakes",
+        "quantity":1,
+        "type":"nonveg",
+        "price":60
+    },{
+        "id":"m8",
         "name":"Veg Samosa",
         "description": "fried pastry filled with vegetables",
         "quantity":4,
         "type":"veg",
         "price":50
     },{
-        "id":"m5",
+        "id":"m9",
         "name":"Paneer Samosa",
         "description": "fried pastry filled with paneer and vegetables",
         "quantity":4,
         "type":"veg",
         "price":60
     },{
-        "id":"m6",
+        "id":"m10",
         "name":"Pani Poori",
         "description": " hollow dough balls stuffed with potato filling and tamrind mint water",
         "quantity":15,
         "type":"veg",
         "price":40
     },{
-        "id":"m7",
+        "id":"m11",
         "name":"Poori Aloodum",
         "description": "Indian fried bread served with potato based onion and tomato stew",
         "quantity":4,
         "type":"veg",
         "price":60
     },{
-        "id":"m8",
+        "id":"m12",
         "name":"Paneer Frankie Roll",
-        "description": "a tortilla wrap filled with paneer, stir-fried vegetables, and sauces",
+        "description": "a tortilla wrap filled with paneer, stir-fried vegetables, and our unique sauce",
         "quantity":2,
         "type":"veg",
         "price":70
     },{
-        "id":"m9",
+        "id":"m13",
         "name":"Mushroom Frankie Roll",
-        "description": "a tortilla wrap filled with mushroom, stir-fried vegetables, and sauces",
+        "description": "a tortilla wrap filled with mushroom, stir-fried vegetables, and our unique sauce",
         "quantity":2,
         "type":"veg",
         "price":70
     },{
-        "id":"m10",
+        "id":"m14",
+        "name":"Chicken Frankie Roll",
+        "description": "a tortilla wrap filled with fajita Chicken, stir-fried vegetables, and our unique sauce",
+        "quantity":2,
+        "type":"nonveg",
+        "price":70
+    },{
+        "id":"m15",
         "name":"Veg Hakka Noodles",
         "description": "flavourful noodles tossed with vegetables",
         "quantity":1,
         "type":"veg",
         "price":40
     },{
-        "id":"m11",
+        "id":"m16",
         "name":"Paneer Hakka Noodles",
         "description": "flavourful noodles tossed with paneer",
         "quantity":1,
         "type":"veg",
         "price":50
     },{
-        "id":"m12",
+        "id":"m17",
         "name":"Mushroom Hakka Noodles",
         "description": "flavourful noodles tossed with Mushroom",
         "quantity":1,
         "type":"veg",
         "price":50
     },{
-        "id":"m13",
+        "id":"m18",
+        "name":"Chicken Hakka Noodles",
+        "description": "flavourful noodles tossed with boneless Chicken pieces",
+        "quantity":1,
+        "type":"nonveg",
+        "price":50
+    },{
+        "id":"m19",
         "name":"Plain Rice",
         "description": "",
         "quantity":1,
         "type":"veg",
         "price":15
     },{
-        "id":"m14",
+        "id":"m20",
         "name":"Veg Fried Rice",
-        "description": "stir fry rice with vegetables",
+        "description": "stir fry rice with vegetables and special masala",
         "quantity":1,
         "type":"veg",
         "price":40
     },{
-        "id":"m15",
+        "id":"m21",
+        "name":"Chicken Fried Rice",
+        "description": "stir fry rice with vegetables and boneless chicken pieces with special masala",
+        "quantity":1,
+        "type":"nonveg",
+        "price":50
+    },{
+        "id":"m22",
         "name":"Paneer Dum Biriyani & Raita",
         "description": "a pot of long-grained rice and paneer with spices that has been traditionally cooked over a low heat (dum).",
         "quantity":1,
         "type":"veg",
         "price":70
     },{
-        "id":"m16",
+        "id":"m23",
+        "name":"Chicken Dum Biriyani & Raita",
+        "description": "a pot of long-grained rice and chicken with spices that has been traditionally cooked over a low heat (dum).",
+        "quantity":1,
+        "type":"nonveg",
+        "price":70
+    },{
+        "id":"m24",
         "name":"Chapati (Roti)",
         "description": "wheat flatbread",
         "quantity":3,
         "type":"veg",
         "price":20
     },{
-        "id":"m17",
+        "id":"m25",
         "name":"Paratha",
         "description": "layered wheat flatbread",
         "quantity":3,
         "type":"veg",
         "price":20
     },{
-        "id":"m18",
+        "id":"m26",
         "name":"Veg Manchurian Dry",
         "description": "Crisp, fried vegetable balls are dipped in a sauce that is a little bit fiery, sour, and sweet",
         "quantity":8,
         "type":"veg",
         "price":50
     },{
-        "id":"m19",
+        "id":"m27",
         "name":"Chilli Soyabean",
         "description": "deep fry soyabean mixed with the flavorful spices, sauces, chilies, onions, ginger, garlic and green bell peppers",
         "quantity":1,
         "type":"veg",
         "price":50
     },{
-        "id":"m20",
+        "id":"m28",
         "name":"Chilli Mushroom",
         "description": "deep fry mushroom mixed with the flavorful spices, sauces, chilies, onions, ginger, garlic and green bell peppers",
         "quantity":1,
         "type":"veg",
         "price":50
     },{
-        "id":"m21",
+        "id":"m29",
         "name":"Dal Tadka",
         "description": "lentils that have been boiled and then finished with a ghee and spice tempering",
         "quantity":1,
         "type":"veg",
         "price":40
     },{
-        "id":"m22",
+        "id":"m30",
         "name":"Chole Masala",
         "description": "curry dish made with white chickpeas, onions, tomatoes, spices and herbs",
         "quantity":1,
         "type":"veg",
         "price":50
     },{
-        "id":"m23",
+        "id":"m31",
         "name":"Aloo Gobi",
         "description": "Potato and cauliflower cooked with fresh ground spices and onion, tomato gravy",
         "quantity":1,
         "type":"veg",
         "price":50
     },{
-        "id":"m24",
+        "id":"m32",
         "name":"Veg Kadhai",
         "description": "Mixed vegetables cooked with freshly ground spices and then simmered in delicious onion-tomato gravy.",
         "quantity":1,
         "type":"veg",
         "price":60
     },{
-        "id":"m25",
+        "id":"m33",
         "name":"Paneer Butter Masala",
-        "description": "rich and creamy made of butter, paneer, onions, tomatoes, cashew and spice powders, and herbs",
+        "description": "rich and creamy gravy made of butter, onions, tomatoes, cashew, spice powders and herbs with paneer",
         "quantity":1,
         "type":"veg",
         "price":60
     },{
-        "id":"m26",
+        "id":"m34",
+        "name":"Chicken Butter Masala",
+        "description": "rich and creamy gravy made of butter, onions, tomatoes, cashew, spice powders and herbs with chicken",
+        "quantity":1,
+        "type":"nonveg",
+        "price":70
+    },{
+        "id":"m35",
+        "name":"1 Tandoori Chicken Grill",
+        "description": "",
+        "quantity":1,
+        "type":"nonveg",
+        "price":50
+    },{
+        "id":"m36",
+        "name":"Chicken Curry(home style)",
+        "description": "",
+        "quantity":1,
+        "type":"nonveg",
+        "price":60
+    },{
+        "id":"m37",
+        "name":"Garlic Chicken",
+        "description": "",
+        "quantity":1,
+        "type":"nonveg",
+        "price":70
+    },{
+        "id":"m38",
         "name":"Jalebi",
         "description": "frying gram flour batter in the shape of pretzels and then soaking them in sugar syrup",
         "quantity":6,
