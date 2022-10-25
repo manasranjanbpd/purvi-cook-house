@@ -1,0 +1,33 @@
+[
+    {
+        "value": "all",
+        "label": "All"
+    },{
+        "value": "snacks",
+        "label": "Snacks"
+    },{
+        "value": "pizza",
+        "label": "Pizza"
+    },{
+        "value": "wraps",
+        "label": "Wraps"
+    },{
+        "value": "noodles",
+        "label": "Noodles"
+    },{
+        "value": "rice",
+        "label": "Rice"
+    },{
+        "value": "bread",
+        "label": "Bread"
+    },{
+        "value": "biriyani",
+        "label": "Biriyani"
+    },{
+        "value": "maincourse",
+        "label": "Main Course"
+    },{
+        "value": "dessert",
+        "label": "Dessert"
+    }
+]

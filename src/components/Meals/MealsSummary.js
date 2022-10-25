@@ -6,8 +6,7 @@ const MealsSummary = () => {
         <section className={classes.summary}>
             <Typewriter
             options={{
-                autoStart: true,
-                loop: true
+                autoStart: true
               }}
             onInit={(typewriter)=>{
                 typewriter

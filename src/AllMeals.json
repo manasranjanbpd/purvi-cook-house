@@ -5,6 +5,7 @@
         "description": "potato-filled deep-fried bread pieces",
         "quantity":5,
         "type":"veg",
+        "category":"snacks",
         "price":40
     },{
         "id":"m2",
@@ -12,6 +13,7 @@
         "description": "yogurt-drenched deep-fried fritters",
         "quantity":3,
         "type":"veg",
+        "category":"snacks",
         "price":30
     },{
         "id":"m3",
@@ -19,6 +21,7 @@
         "description": "cheese and garlic smeared on slices of bread",
         "quantity":3,
         "type":"veg",
+        "category":"bread",
         "price":30
     },{
         "id":"m4",
@@ -26,13 +29,15 @@
         "description": "cheese and garlic with fajita chicken smeared on slices of bread",
         "quantity":4,
         "type":"nonveg",
+        "category":"bread",
         "price":60
     },{
         "id":"m5",
-        "name":"Onion Capsicum Pizza",
+        "name":"Veg Pizza",
         "description": "Pizza crust in the size of ~20 cm with cheese, onions, peppers, and sauces on top, as well as herbs and red pepper flakes",
         "quantity":1,
         "type":"veg",
+        "category":"pizza",
         "price":60
     },{
         "id":"m6",
@@ -40,6 +45,7 @@
         "description": "Pizza crust in the size of 20 cm with cheese, onions, peppers along with PANEER and sauces on top, as well as herbs and red pepper flakes",
         "quantity":1,
         "type":"veg",
+        "category":"pizza",
         "price":60
     },{
         "id":"m7",
@@ -47,6 +53,7 @@
         "description": "Pizza crust in the size of 20 cm with cheese, onions, peppers along with Fajita Chicken and sauces on top, as well as herbs and red pepper flakes",
         "quantity":1,
         "type":"nonveg",
+        "category":"pizza",
         "price":60
     },{
         "id":"m8",
@@ -54,6 +61,7 @@
         "description": "fried pastry filled with vegetables",
         "quantity":4,
         "type":"veg",
+        "category":"snacks",
         "price":50
     },{
         "id":"m9",
@@ -61,6 +69,7 @@
         "description": "fried pastry filled with paneer and vegetables",
         "quantity":4,
         "type":"veg",
+        "category":"snacks",
         "price":60
     },{
         "id":"m10",
@@ -68,6 +77,7 @@
         "description": " hollow dough balls stuffed with potato filling and tamrind mint water",
         "quantity":15,
         "type":"veg",
+        "category":"snacks",
         "price":40
     },{
         "id":"m11",
@@ -75,6 +85,7 @@
         "description": "Indian fried bread served with potato based onion and tomato stew",
         "quantity":4,
         "type":"veg",
+        "category":"maincourse",
         "price":60
     },{
         "id":"m12",
@@ -82,6 +93,7 @@
         "description": "a tortilla wrap filled with paneer, stir-fried vegetables, and our unique sauce",
         "quantity":2,
         "type":"veg",
+        "category":"wraps",
         "price":70
     },{
         "id":"m13",
@@ -89,6 +101,7 @@
         "description": "a tortilla wrap filled with mushroom, stir-fried vegetables, and our unique sauce",
         "quantity":2,
         "type":"veg",
+        "category":"wraps",
         "price":70
     },{
         "id":"m14",
@@ -96,6 +109,7 @@
         "description": "a tortilla wrap filled with fajita Chicken, stir-fried vegetables, and our unique sauce",
         "quantity":2,
         "type":"nonveg",
+        "category":"wraps",
         "price":70
     },{
         "id":"m15",
@@ -103,6 +117,7 @@
         "description": "flavourful noodles tossed with vegetables",
         "quantity":1,
         "type":"veg",
+        "category":"noodles",
         "price":40
     },{
         "id":"m16",
@@ -110,6 +125,7 @@
         "description": "flavourful noodles tossed with paneer",
         "quantity":1,
         "type":"veg",
+        "category":"noodles",
         "price":50
     },{
         "id":"m17",
@@ -117,6 +133,7 @@
         "description": "flavourful noodles tossed with Mushroom",
         "quantity":1,
         "type":"veg",
+        "category":"noodles",
         "price":50
     },{
         "id":"m18",
@@ -124,6 +141,7 @@
         "description": "flavourful noodles tossed with boneless Chicken pieces",
         "quantity":1,
         "type":"nonveg",
+        "category":"noodles",
         "price":50
     },{
         "id":"m19",
@@ -131,6 +149,7 @@
         "description": "",
         "quantity":1,
         "type":"veg",
+        "category":"rice",
         "price":15
     },{
         "id":"m20",
@@ -138,6 +157,7 @@
         "description": "stir fry rice with vegetables and special masala",
         "quantity":1,
         "type":"veg",
+        "category":"rice",
         "price":40
     },{
         "id":"m21",
@@ -145,6 +165,7 @@
         "description": "stir fry rice with vegetables and boneless chicken pieces with special masala",
         "quantity":1,
         "type":"nonveg",
+        "category":"rice",
         "price":50
     },{
         "id":"m22",
@@ -152,6 +173,7 @@
         "description": "a pot of long-grained rice and paneer with spices that has been traditionally cooked over a low heat (dum).",
         "quantity":1,
         "type":"veg",
+        "category":"biriyani",
         "price":70
     },{
         "id":"m23",
@@ -159,6 +181,7 @@
         "description": "a pot of long-grained rice and chicken with spices that has been traditionally cooked over a low heat (dum).",
         "quantity":1,
         "type":"nonveg",
+        "category":"biriyani",
         "price":70
     },{
         "id":"m24",
@@ -166,6 +189,7 @@
         "description": "wheat flatbread",
         "quantity":3,
         "type":"veg",
+        "category":"bread",
         "price":20
     },{
         "id":"m25",
@@ -173,6 +197,7 @@
         "description": "layered wheat flatbread",
         "quantity":3,
         "type":"veg",
+        "category":"bread",
         "price":20
     },{
         "id":"m26",
@@ -180,6 +205,7 @@
         "description": "Crisp, fried vegetable balls are dipped in a sauce that is a little bit fiery, sour, and sweet",
         "quantity":8,
         "type":"veg",
+        "category":"snacks",
         "price":50
     },{
         "id":"m27",
@@ -187,6 +213,7 @@
         "description": "deep fry soyabean mixed with the flavorful spices, sauces, chilies, onions, ginger, garlic and green bell peppers",
         "quantity":1,
         "type":"veg",
+        "category":"maincourse",
         "price":50
     },{
         "id":"m28",
@@ -194,6 +221,7 @@
         "description": "deep fry mushroom mixed with the flavorful spices, sauces, chilies, onions, ginger, garlic and green bell peppers",
         "quantity":1,
         "type":"veg",
+        "category":"maincourse",
         "price":50
     },{
         "id":"m29",
@@ -201,6 +229,7 @@
         "description": "lentils that have been boiled and then finished with a ghee and spice tempering",
         "quantity":1,
         "type":"veg",
+        "category":"maincourse",
         "price":40
     },{
         "id":"m30",
@@ -208,6 +237,7 @@
         "description": "curry dish made with white chickpeas, onions, tomatoes, spices and herbs",
         "quantity":1,
         "type":"veg",
+        "category":"maincourse",
         "price":50
     },{
         "id":"m31",
@@ -215,6 +245,7 @@
         "description": "Potato and cauliflower cooked with fresh ground spices and onion, tomato gravy",
         "quantity":1,
         "type":"veg",
+        "category":"maincourse",
         "price":50
     },{
         "id":"m32",
@@ -222,6 +253,7 @@
         "description": "Mixed vegetables cooked with freshly ground spices and then simmered in delicious onion-tomato gravy.",
         "quantity":1,
         "type":"veg",
+        "category":"maincourse",
         "price":60
     },{
         "id":"m33",
@@ -229,6 +261,7 @@
         "description": "rich and creamy gravy made of butter, onions, tomatoes, cashew, spice powders and herbs with paneer",
         "quantity":1,
         "type":"veg",
+        "category":"maincourse",
         "price":60
     },{
         "id":"m34",
@@ -236,27 +269,31 @@
         "description": "rich and creamy gravy made of butter, onions, tomatoes, cashew, spice powders and herbs with chicken",
         "quantity":1,
         "type":"nonveg",
+        "category":"maincourse",
         "price":70
     },{
         "id":"m35",
         "name":"1 Tandoori Chicken Grill",
-        "description": "",
+        "description": "One piece chicken Quarter(leg and thigh) marinated in yoghurt with a variety of spices and grilled in the oven",
         "quantity":1,
         "type":"nonveg",
+        "category":"maincourse",
         "price":50
     },{
         "id":"m36",
         "name":"Chicken Curry(home style)",
-        "description": "",
+        "description": "Chicken pieces with aloo and gravy with Traditional indian home style cooking",
         "quantity":1,
         "type":"nonveg",
+        "category":"maincourse",
         "price":60
     },{
         "id":"m37",
         "name":"Garlic Chicken",
-        "description": "",
+        "description": "little bite size boneless chicken pieces in a sauce that has garlic and pepper.",
         "quantity":1,
         "type":"nonveg",
+        "category":"maincourse",
         "price":70
     },{
         "id":"m38",
@@ -264,6 +301,7 @@
         "description": "frying gram flour batter in the shape of pretzels and then soaking them in sugar syrup",
         "quantity":6,
         "type":"veg",
+        "category":"dessert",
         "price":40
     }
 ]

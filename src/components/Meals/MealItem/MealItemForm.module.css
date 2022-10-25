@@ -18,3 +18,10 @@
     background-color: #a30f59;
     border-color: #a30f59;
   }
+
+  input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button {  
+
+   opacity: 1;
+
+}

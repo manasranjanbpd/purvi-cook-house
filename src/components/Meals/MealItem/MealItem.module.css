@@ -31,8 +31,17 @@
     color: #e80c7a;
     font-size: 1.25rem;
   }
+  .quantityParent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   .quantity{
-    background-color:#ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e80c7a;
+    color: white;
     border-radius: 5px;
     padding: 0 5px;
     font-weight: 500;
