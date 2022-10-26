@@ -6,22 +6,36 @@
     padding: 20px 10px;
     border-radius: 10px;
 }
+.onlyDropdownDivs{
+    width:40%;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
 .categoryDiv{
-    width:20%;
+    width:50%;
 }
 
 .typeDiv{
-    width:20%;
+    width:50%;
 }
 .inputDiv {
-    width:60%;
+    width:100%;
     display: flex;
     align-items: center;
     justify-content: center;
     border: 1px solid #ccc;
     border-radius: 4px;
     min-height: 38px;
+    height: 38px;
     background-color: white;
+}
+
+.inputDivParent{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
 .inputSelected{
     border: 2px solid #2684FF;
@@ -40,6 +54,21 @@
     }
     
     .typeDiv{
+        width:100%;
+    }
+    .onlyDropdownDivs{
+        width: 100%;
+    }
+    .parent{
+        flex-direction: column;
+        display: flex;
+        justify-content: space-between;
+        gap:20px;
+        border: 1px solid #ccc;
+        padding: 20px 10px;
+        border-radius: 10px;
+    }
+    .inputDivParent{
         width:100%;
     }
 }

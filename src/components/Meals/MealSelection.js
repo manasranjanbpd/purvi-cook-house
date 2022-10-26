@@ -55,32 +55,38 @@ const MealSelection = (props) => {
 
     return(
         <div className={classes.parent}>
-            <div className={classes.typeDiv}>
-                <Select
-                closeMenuOnSelect={true}
-                defaultValue={foodType}
-                options={allFoodType}
-                onChange={(selectedValue) => typeDropdownSelectionHandler(selectedValue)}
-                formatOptionLabel={formatOptionLabel}
-            /></div>
-            <div className={classes.categoryDiv}>
-                <Select
-                closeMenuOnSelect={true}
-                defaultValue={category}
-                options={AllCategory}
-                onChange={(selectedValue) => categoryDropdownSelectionHandler(selectedValue)}
-            /></div>
-            <div className={`${classes.inputDiv} ${inputFocus && classes.inputSelected}`}>
-                <span className={classes.searchIconContainer}><img src={IconSearch} alt="search"/></span>
-                <input 
-                    ref={foodSearchRef}
-                    id='searchFoodInput'
-                    type='text'
-                    placeholder='Search Food' 
-                    onChange={inputChangeHandler}
-                    onFocus={toggleFocusHandler}
-                    onBlur={toggleFocusHandler}
-                />
+            <div className={classes.onlyDropdownDivs}>
+                <div className={classes.typeDiv}>
+                    Select Type:
+                    <Select
+                    closeMenuOnSelect={true}
+                    defaultValue={foodType}
+                    options={allFoodType}
+                    onChange={(selectedValue) => typeDropdownSelectionHandler(selectedValue)}
+                    formatOptionLabel={formatOptionLabel}
+                /></div>
+                <div className={classes.categoryDiv}>
+                    Select Category:
+                    <Select
+                    closeMenuOnSelect={true}
+                    defaultValue={category}
+                    options={AllCategory}
+                    onChange={(selectedValue) => categoryDropdownSelectionHandler(selectedValue)}
+                /></div>
+            </div>            
+            <div className={classes.inputDivParent}>
+                <div className={`${classes.inputDiv} ${inputFocus && classes.inputSelected}`}>
+                    <span className={classes.searchIconContainer}><img src={IconSearch} alt="search"/></span>
+                    <input 
+                        ref={foodSearchRef}
+                        id='searchFoodInput'
+                        type='text'
+                        placeholder='Search Food' 
+                        onChange={inputChangeHandler}
+                        onFocus={toggleFocusHandler}
+                        onBlur={toggleFocusHandler}
+                    />
+                </div>
             </div>    
         </div>
     );

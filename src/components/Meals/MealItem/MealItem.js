@@ -25,7 +25,13 @@ const MealItem = (props) => {
         <div>
             <h3>{props.index}. {props.name}</h3>
             <div className={classes.description}>{props.description}</div>
-            <div className={classes.other}>{icon}<div className={classes.quantityParent}>Quantity: <span className={classes.quantity}>{props.quantity}</span></div></div>
+            <div className={classes.other}>{icon}
+                { props.quantity > 1 &&
+                    <div className={classes.quantityParent}>
+                        Number of pieces: <span className={classes.quantity}>{props.quantity}</span>
+                    </div>
+                }
+            </div>
             <div className={classes.price}>{price}</div>
         </div>
         <div className={classes.formDiv}>

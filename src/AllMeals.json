@@ -35,7 +35,7 @@
         "id":"m5",
         "name":"Veg Pizza",
         "description": "Pizza crust in the size of ~20 cm with cheese, onions, peppers, and sauces on top, as well as herbs and red pepper flakes",
-        "quantity":1,
+        
         "type":"veg",
         "category":"pizza",
         "price":60
@@ -43,7 +43,7 @@
         "id":"m6",
         "name":"Paneer Pizza",
         "description": "Pizza crust in the size of 20 cm with cheese, onions, peppers along with PANEER and sauces on top, as well as herbs and red pepper flakes",
-        "quantity":1,
+        
         "type":"veg",
         "category":"pizza",
         "price":60
@@ -51,7 +51,7 @@
         "id":"m7",
         "name":"Chicken Pizza",
         "description": "Pizza crust in the size of 20 cm with cheese, onions, peppers along with Fajita Chicken and sauces on top, as well as herbs and red pepper flakes",
-        "quantity":1,
+        
         "type":"nonveg",
         "category":"pizza",
         "price":60
@@ -115,7 +115,7 @@
         "id":"m15",
         "name":"Veg Hakka Noodles",
         "description": "flavourful noodles tossed with vegetables",
-        "quantity":1,
+        
         "type":"veg",
         "category":"noodles",
         "price":40
@@ -123,7 +123,7 @@
         "id":"m16",
         "name":"Paneer Hakka Noodles",
         "description": "flavourful noodles tossed with paneer",
-        "quantity":1,
+        
         "type":"veg",
         "category":"noodles",
         "price":50
@@ -131,7 +131,7 @@
         "id":"m17",
         "name":"Mushroom Hakka Noodles",
         "description": "flavourful noodles tossed with Mushroom",
-        "quantity":1,
+        
         "type":"veg",
         "category":"noodles",
         "price":50
@@ -139,7 +139,7 @@
         "id":"m18",
         "name":"Chicken Hakka Noodles",
         "description": "flavourful noodles tossed with boneless Chicken pieces",
-        "quantity":1,
+        
         "type":"nonveg",
         "category":"noodles",
         "price":50
@@ -147,7 +147,7 @@
         "id":"m19",
         "name":"Plain Rice",
         "description": "",
-        "quantity":1,
+        
         "type":"veg",
         "category":"rice",
         "price":15
@@ -155,7 +155,7 @@
         "id":"m20",
         "name":"Veg Fried Rice",
         "description": "stir fry rice with vegetables and special masala",
-        "quantity":1,
+        
         "type":"veg",
         "category":"rice",
         "price":40
@@ -163,7 +163,7 @@
         "id":"m21",
         "name":"Chicken Fried Rice",
         "description": "stir fry rice with vegetables and boneless chicken pieces with special masala",
-        "quantity":1,
+        
         "type":"nonveg",
         "category":"rice",
         "price":50
@@ -171,7 +171,7 @@
         "id":"m22",
         "name":"Paneer Dum Biriyani & Raita",
         "description": "a pot of long-grained rice and paneer with spices that has been traditionally cooked over a low heat (dum).",
-        "quantity":1,
+        
         "type":"veg",
         "category":"biriyani",
         "price":70
@@ -179,7 +179,7 @@
         "id":"m23",
         "name":"Chicken Dum Biriyani & Raita",
         "description": "a pot of long-grained rice and chicken with spices that has been traditionally cooked over a low heat (dum).",
-        "quantity":1,
+        
         "type":"nonveg",
         "category":"biriyani",
         "price":70
@@ -211,7 +211,7 @@
         "id":"m27",
         "name":"Chilli Soyabean",
         "description": "deep fry soyabean mixed with the flavorful spices, sauces, chilies, onions, ginger, garlic and green bell peppers",
-        "quantity":1,
+        
         "type":"veg",
         "category":"maincourse",
         "price":50
@@ -219,7 +219,7 @@
         "id":"m28",
         "name":"Chilli Mushroom",
         "description": "deep fry mushroom mixed with the flavorful spices, sauces, chilies, onions, ginger, garlic and green bell peppers",
-        "quantity":1,
+        
         "type":"veg",
         "category":"maincourse",
         "price":50
@@ -227,7 +227,7 @@
         "id":"m29",
         "name":"Dal Tadka",
         "description": "lentils that have been boiled and then finished with a ghee and spice tempering",
-        "quantity":1,
+        
         "type":"veg",
         "category":"maincourse",
         "price":40
@@ -235,7 +235,7 @@
         "id":"m30",
         "name":"Chole Masala",
         "description": "curry dish made with white chickpeas, onions, tomatoes, spices and herbs",
-        "quantity":1,
+        
         "type":"veg",
         "category":"maincourse",
         "price":50
@@ -243,7 +243,7 @@
         "id":"m31",
         "name":"Aloo Gobi",
         "description": "Potato and cauliflower cooked with fresh ground spices and onion, tomato gravy",
-        "quantity":1,
+        
         "type":"veg",
         "category":"maincourse",
         "price":50
@@ -251,7 +251,7 @@
         "id":"m32",
         "name":"Veg Kadhai",
         "description": "Mixed vegetables cooked with freshly ground spices and then simmered in delicious onion-tomato gravy.",
-        "quantity":1,
+        
         "type":"veg",
         "category":"maincourse",
         "price":60
@@ -259,7 +259,7 @@
         "id":"m33",
         "name":"Paneer Butter Masala",
         "description": "rich and creamy gravy made of butter, onions, tomatoes, cashew, spice powders and herbs with paneer",
-        "quantity":1,
+        
         "type":"veg",
         "category":"maincourse",
         "price":60
@@ -267,7 +267,7 @@
         "id":"m34",
         "name":"Chicken Butter Masala",
         "description": "rich and creamy gravy made of butter, onions, tomatoes, cashew, spice powders and herbs with chicken",
-        "quantity":1,
+        
         "type":"nonveg",
         "category":"maincourse",
         "price":70
@@ -275,7 +275,7 @@
         "id":"m35",
         "name":"1 Tandoori Chicken Grill",
         "description": "One piece chicken Quarter(leg and thigh) marinated in yoghurt with a variety of spices and grilled in the oven",
-        "quantity":1,
+        
         "type":"nonveg",
         "category":"maincourse",
         "price":50
@@ -283,7 +283,7 @@
         "id":"m36",
         "name":"Chicken Curry(home style)",
         "description": "Chicken pieces with aloo and gravy with Traditional indian home style cooking",
-        "quantity":1,
+        
         "type":"nonveg",
         "category":"maincourse",
         "price":60
@@ -291,7 +291,7 @@
         "id":"m37",
         "name":"Garlic Chicken",
         "description": "little bite size boneless chicken pieces in a sauce that has garlic and pepper.",
-        "quantity":1,
+        
         "type":"nonveg",
         "category":"maincourse",
         "price":70
